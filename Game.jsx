@@ -297,7 +297,7 @@ const styles = StyleSheet.create({
   },
   statusText: {//Stilizon tekstin
     
-    fontSize: width *0.05, // Responsive font size
+    fontSize: width *0.05, 
     fontWeight: 'bold',
     color: '#fff',
     marginBottom: -200,
